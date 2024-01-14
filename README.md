@@ -1,4 +1,4 @@
-"The time you enjoy wasting is not wasted time."
+"The time you enjoy wasting is not wasted time." - Bertrand Russell
 
 <!--
 **MortenSorensenNOR/MortenSorensenNOR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
