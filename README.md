@@ -1,4 +1,4 @@
-"The time you enjoy wasting is not wasted time." - Bertrand Russell
+Tricking rocks into thinking 🧙‍♂️
 
 <!--
 **MortenSorensenNOR/MortenSorensenNOR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
